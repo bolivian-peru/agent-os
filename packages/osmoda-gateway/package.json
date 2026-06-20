@@ -16,7 +16,7 @@
     "ws": "^8.18.0"
   },
   "optionalDependencies": {
-    "@anthropic-ai/claude-code": "^2.1.175"
+    "@anthropic-ai/claude-code": "^2.1.163"
   },
   "devDependencies": {
     "@types/node": "^22.0.0",
